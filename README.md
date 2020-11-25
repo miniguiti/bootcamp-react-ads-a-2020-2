@@ -1,3 +1,3 @@
 # bootcamp-react-ads-a
 
-![Untitled Diagram-Page-1](https://user-images.githubusercontent.com/37668247/100023084-18084580-2dc3-11eb-97a3-0457fdaea60b.png)
+![fluxo_v2](https://user-images.githubusercontent.com/37668247/100261982-4bb1af80-2f2a-11eb-8fe2-304f730915ea.png)
