@@ -1,13 +1,14 @@
 import React from 'react';
 
-function VideoListItem(props){
-    return(
+function VideoListItem(props) {
+    return (
         <>
-             <div className="video-list-item">
+            <div className={props.isTeacher ? 'video-list-item' : 'video-list-item sem-icone'}>
                 <div className="video-mini"></div>
                 <h1>{props.titulo}</h1>
                 <h3>{props.subtitulo}</h3>
-             </div>
+                <i className="far fa-trash-alt"></i>
+            </div>
         </>
     );
 }

@@ -1,5 +1,5 @@
-import Student from './pages/Student'
 import './assets/css/style.css'
+import Teacher from './pages/Teacher'
 
 function App() {
   const scriptIcons = document.createElement("script")
@@ -7,7 +7,7 @@ function App() {
   document.body.appendChild(scriptIcons)
 
   return (
-    <Student/>
+    <Teacher/>
   );
 }
 
