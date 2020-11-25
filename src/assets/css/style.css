@@ -368,3 +368,7 @@ nav .fa-youtube {
   border-bottom: solid #d0d0d0 1px;
 }
 /* Fim estilo teacher */
+
+.sem-icone i{
+  display: none;
+}
