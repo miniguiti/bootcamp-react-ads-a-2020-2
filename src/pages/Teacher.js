@@ -21,7 +21,7 @@ function Teacher() {
             <div className="video-area">
                 <div className="video-list">
                     <h5>Videos enviados</h5>
-                    <VideoListItem titulo="Titulo aula bootcamp 01" subtitulo="Subtitulo teste - Descrição breve aqui" />
+                    <VideoListItem titulo="Titulo aula bootcamp 01" subtitulo="Subtitulo teste - Descrição breve aqui" isTeacher/>
                     <VideoListItem titulo="Titulo aula bootcamp 02" subtitulo="Subtitulo teste - Descrição breve aqui" isTeacher/>
                     <VideoListItem titulo="Titulo aula bootcamp 03" subtitulo="Subtitulo teste - Descrição breve aqui" isTeacher/>
                     <VideoListItem titulo="Titulo aula bootcamp 04" subtitulo="Subtitulo teste - Descrição breve aqui" isTeacher/>

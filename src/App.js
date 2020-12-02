@@ -1,5 +1,5 @@
 import './assets/css/style.css'
-import Teacher from './pages/Teacher'
+import Routes from './routes'
 
 function App() {
   const scriptIcons = document.createElement("script")
@@ -7,7 +7,7 @@ function App() {
   document.body.appendChild(scriptIcons)
 
   return (
-    <Teacher/>
+    <Routes/>
   );
 }
 
